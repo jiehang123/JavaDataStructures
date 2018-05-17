@@ -1,4 +1,4 @@
-package com.jiehang.tree.avl.impl;
+package com.jiehang.tree.avl;
 
 public class AVLNodeTest {
 	public static void main(String[] args) {
