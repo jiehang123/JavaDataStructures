@@ -16,8 +16,8 @@ public class AVLNodeTest {
 			display(avlNode.left);
 			display(avlNode.right);
 			System.out.println(avlNode.data + ":" + avlNode.height);
-//			System.out.println("left :" + ((avlNode.left != null) ? avlNode.left.data : "null"));
-//			System.out.println("right :" + ((avlNode.right != null) ? avlNode.right.data : "null"));
+			System.out.println("left :" + ((avlNode.left != null) ? avlNode.left.data : "null"));
+			System.out.println("right :" + ((avlNode.right != null) ? avlNode.right.data : "null"));
 		}
 	}
 	
